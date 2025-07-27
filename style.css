@@ -118,11 +118,12 @@ span{
 /**hero-section**/
 .hero-section{
     background-image: url("hero_image.jpg");
-    height: 100vh;
+    height: 600px;
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+.hero-message{
+    background-color: white;
+    color: black;
+    height: 40px;
 }
