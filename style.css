@@ -142,3 +142,16 @@ span{
 .hero-message a{
     color: #007185;
 }
+
+/**shop-section**/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box{
+    height: 400px;
+    border: 2px solid black;
+    width: 23%;
+    background-color: white;
+}
