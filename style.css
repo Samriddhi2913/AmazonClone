@@ -151,7 +151,17 @@ span{
 }
 .box{
     height: 400px;
-    border: 2px solid black;
+    /**border: 2px solid black;**/
     width: 23%;
     background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+.box-img{
+    height: 300px;
+
+}
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
