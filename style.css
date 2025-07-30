@@ -179,3 +179,10 @@ span{
     word-wrap: break-word;   /* Break long words if needed */
     margin-bottom: 1rem; 
 }
+
+/**footer**/
+.foter-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 40px
+}
